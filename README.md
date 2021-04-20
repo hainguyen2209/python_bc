@@ -11,3 +11,10 @@ Dependencies:
     Flask & Flask_cors: https://flask.palletsprojects.com/en/1.1.x/installation/#install-install-virtualenv
     Pycrypto: pip install pycrypto
     Binascii: https://flask.palletsprojects.com/en/1.1.x/
+
+Ex:
+Clone this repository: https://github.com/nguyenngoclyna/python_bc.git
+
+
+UI:
+
