@@ -12,7 +12,15 @@ Dependencies:
     Flask & Flask_cors: https://flask.palletsprojects.com/en/1.1.x/installation/#install-install-virtualenv
     Pycrypto: pip install pycrypto
     Binascii: https://flask.palletsprojects.com/en/1.1.x/
-
+    
+    Debug mode
+        export FLASK_ENV=development
+        flask run
+        flask run --host=0.0.0.0
+    Config Flask:    
+        pip install flask
+        virtualenv flask
+        source bin/activate
 Ex:
     Clone this repository: https://github.com/nguyenngoclyna/python_bc.git
 
